@@ -10,7 +10,7 @@ public class Person {
     private String address;
     private String city;
     private String state;
-    private String zipCode;
+    private int zipCode;
     private Long phoneNumber;
     private String emailId;
 
@@ -83,11 +83,11 @@ public class Person {
         this.state = state;
     }
 
-    public String getZipCode() {
+    public int getZipCode() {
         return zipCode;
     }
 
-    public void setZipCode(String zipCode) {
+    public void setZipCode(int zipCode) {
         this.zipCode = zipCode;
     }
 
