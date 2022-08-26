@@ -1,0 +1,7 @@
+2022-08-27 01:28:36.929  INFO 29648 --- [restartedMain] c.b.a.AddressBookAppApplication          : Starting AddressBookAppApplication using Java 18.0.1.1 on LAPTOP-GJ8B9844 with PID 29648 (C:\Users\Lenovo\IdeaProjects\AddressBookApp\target\classes started by Lenovo in C:\Users\Lenovo\IdeaProjects\AddressBookApp)
+2022-08-27 01:28:36.931 DEBUG 29648 --- [restartedMain] c.b.a.AddressBookAppApplication          : Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-08-27 01:28:36.931  INFO 29648 --- [restartedMain] c.b.a.AddressBookAppApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-08-27 01:28:38.509  WARN 29648 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-27 01:28:38.716  WARN 29648 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-08-27 01:28:38.753  INFO 29648 --- [restartedMain] c.b.a.AddressBookAppApplication          : Started AddressBookAppApplication in 2.089 seconds (JVM running for 2.595)
+2022-08-27 01:28:38.755  INFO 29648 --- [restartedMain] c.b.a.AddressBookAppApplication          : Address Book Strated in COMMON Environment
