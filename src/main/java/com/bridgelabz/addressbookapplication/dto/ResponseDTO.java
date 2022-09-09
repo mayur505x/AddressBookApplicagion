@@ -1,14 +1,13 @@
 package com.bridgelabz.addressbookapplication.dto;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
-public @Data class ResponseDTO {
+@Data
+@AllArgsConstructor
+public class ResponseDTO {
     private String message;
+    private int statusCode;
     private Object data;
 
-    public ResponseDTO(String message, Object data) {
-        this.message = message;
-        this.data = data;
-    }
 }
-
